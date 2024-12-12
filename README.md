@@ -1,3 +1,3 @@
 # MyFirstRepo
-hola 
+git day 2
 
